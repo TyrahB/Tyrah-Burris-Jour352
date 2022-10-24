@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Tyrah Burris Resume</title>   
+ </head>
+    <body>
+        <!--I built this myslef-->
+        <h1>Tyrah Burris</h1>
+        <strong>Receptionist and Journalism Student</strong>
+        <img src="AE97F203-57BE-4874-8FCB-4551D4B17160.jpeg" alt="A photo of me" width="300">
+        
+        <div id="contact">
+        <a href="mailto:tburris@terpmail.umd.edu">Send email
+            </a>
+            <br>
+           <a href="https://www.linkedin.com/in/tyrah-burris-7b044a247/" target="_blank">Linkedin
+            </a>
+            <br>
+        <a href="https://twitter.com/tyrah_tyty" target="_blank">Twitter
+            </a>
+            <br>
+        <a href="https://github.com/TyrahB" target="_blank">Github
+            </a>
+            
+      </div>   
+            
+
+        <h2>Experience</h2>
+       
+        <h3>Receptionist</h3>
+        <h4>Grove Heating and Cooling</h4> 
+        <h5>July 2021-Present</h5>
+
+<p>I answered phones, and greeted people while asking them questions about the issues with their HVAC system. I also sold maintenance plans to customers, organized filing cabinets and I was  responsible for picking company needs out of the office and designing flyers for company events.</p>
+
+   <h3>Sales Associate</h3> 
+     <h4>Pacsun</h4>
+    <h5>September 2018-July 2021</h5>
+        
+  <p>I greeted customers when they walked in the store and assisted customers at the cash register with purchases. I also maintained the sales floor by folding clothes and picking up items.</p>
+            
+        <h3>Intern</h3>
+        
+        <h4> Assistant States Attorneys Office</h4>
+        
+        <h5>December 2019-March 2020</h5>
+    
+       <p>I was responsible for  reading and summarizing police reports on a docket, and assisting attorneys in the courtroom. I  took paperwork to the clerk's office and I was  responsible for sending evidence to defense attorney’s and  talking to victims on the phone.</p> 
+
+        
+  <h2>Education</h2>
+    
+  <ul>
+      <li>Bachelor of Arts, Journalism, University of Maryland College Park, Present</li>
+      <li>Associate of Arts, Journalism and Public Relations, Prince George’s Community College, 2021</li>
+</ul>      
+
+        <h2>Skills</h2>
+    <ul>  
+        <li>Proficient in Microsoft Word and Microsoft Powerpoint</li>
+        <li>Editing photos with Adobe Bridge and Adobe Photoshop</li>
+        <li>News writing and AP style</li>
+  </ul> 
+        <p><a href="#contact">Contact Me</a></p>
+    </body>
+    
+</html>

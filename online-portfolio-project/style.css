@@ -1,0 +1,125 @@
+/*
+MY COLOR PALETTE
+Color 1 - #594236 
+Color 2 - #CD8987 
+Color 3 - #FDF5BF 
+Color 4 - #A3B9C9
+Color 5 - #4F5D75 
+*/
+
+@media {
+
+}
+
+body {
+    background-color:#CD8987;
+    text-align:center;
+}
+ div {
+    width: 100px;
+    height: 300px;
+    text-align:center;
+    font-size:25px;
+    font-family: 'Source Sans Pro';
+    color:#FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color:#A3B9C9;
+    
+}
+li {
+    color:#594236 
+}
+a {
+    display:block;
+    padding:0px;
+    color:black;
+    background-color:white;
+}
+  
+
+
+h1 {
+    color:#4F5D75;
+    font-family: 'Lora';
+}
+
+h3 {
+    color:#4F5D75;
+    font-size:25px;
+    width:500xp;
+    margin: 15px 20px 10px 20px
+    
+}
+h4 {
+
+    color:#4F5D75;
+    font-size:15px;
+}
+
+h5 {
+    
+    color:#4F5D75;
+    font-size:15px;
+}
+strong {
+       color:#4F5D75;
+       font-family:'Lora';
+    
+}
+h2 {
+   text-align:left;
+    margin:15px 20px 25px 20px;
+   font-size: 40px;
+   font-family: 'Lora';
+   color:white;
+  
+
+}
+
+#headshot {
+    width:300px;
+    border-radius:500px
+    
+}
+p { 
+margin:10px 30px 15px 30px;
+  text-align:left; 
+  font-size:20px;
+  font-family:'Lora';
+  color:#4F5D75;
+        
+
+}
+
+li {
+    text-align:left;
+    color:#4F5D75;
+    margin: 20px 25px 15px 25px;
+        
+}
+
+button {
+    text-align:center;
+    background-color:#4F5D75;
+    color:white; 
+    width: 100px;
+    padding: 7px;
+    border: none;
+    border-radius:6px; 
+}
+
+button-hover {
+    background-color:#594236;
+}
+
+#footer{
+    text-align:left;
+    font-size:15px;
+    margin: 5px 10px 5px 10px;
+    color: #4F5D75;
+}
